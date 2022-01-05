@@ -50,3 +50,35 @@ body{
 .right{
     margin-right: 300px;
 }
+
+.mid-content{
+    display: flex;
+}
+
+.about-me h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    color: rgb(57, 122, 241);
+}
+
+.aboutme-left{
+    width: 32%;
+    position: relative;
+    top: 25px;
+    margin-left: 360px;
+    /* margin-right: 10px; */
+}
+
+.aboutme-right{
+    width: 30%;
+    
+}
+
+.aboutme-right p{
+    font-size: 20px;
+}
+
+.btn{
+    align-content: center;
+}
