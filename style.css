@@ -1,3 +1,52 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.top{
+    display: flex;
+    background-color: rgb(57, 122, 241);
+}
+
+.left{
+    width: 50%;
+    color: white;
+    margin-top: 150px;
+    margin-left: 300px;
+    text-align: left;
+}
+
+.left a{
+    position: relative;
+    top: 50px;
+    color: rgb(57, 122, 241);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 30px;
+    background-image: linear-gradient(white, rgb(224, 223, 223));
+    padding: 10px 40px;
+    
+
+}
+
+.left h1{
+    font-size: 100px;
+    margin: 0;
+}
+
+.left h3{
+    font-size: 30px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.left h2{
+    font-size: 50px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.right{
+    margin-right: 300px;
 }
